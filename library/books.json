@@ -317,4 +317,11 @@
   "publisherId": 766,
   "bindingId": 6,
   "languageId": 1
+},
+{
+  "id": "123456",
+  "title": "test_book",
+  "pages": 100,
+  "year": 2025,
+  "languageId": 1
 }]
